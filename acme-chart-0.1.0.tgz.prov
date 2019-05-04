@@ -1,0 +1,28 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v1
+appVersion: "1.0"
+description: A Helm chart for Kubernetes
+name: acme-chart
+version: 0.1.0
+
+...
+files:
+  acme-chart-0.1.0.tgz: sha256:1661a55f27d38200f10c1fff636145e55e01c824ea4d77df532837aab35b950e
+-----BEGIN PGP SIGNATURE-----
+
+wsFcBAEBCgAQBQJczdQ5CRDgsv30Mm3ExAAAF00QADDfUUyuClrSu1R41UwJP6b9
+J0Kc8pPnWI5UR3uDRcILY+6z9lyf3mxiYoFH/QBO8CsABlGuy8jvC/wjZ6gHOjMW
+8bntgpE2aIXJc+Aoo47P9sC1KNPsKazV5wX9pNOppw6gkUlZTHh7CUQ0tiZEOniA
+nAEU68DtX2XdqPzMTKrQRGMXo24kkWO/mrQ4KhsZ7OyMR8c0e9RSKPi1QktMlx17
++S1BZTuv9lkEPv8fVFlYiFKXf/4zMXbR1w2/OQN9hjuq7SkXuRnmVtsEewPeRFOJ
+WTAj7AQ5Xa5/Rsy7ZtYGagWZ7M/bI4JLrHG+a+6jBh9gEQszXh9jbs/5Onc6jCEt
+cV+u49DefRDi5ZV6F6uW13sP93GhjmkrZTo4j04fmzM8uq/eDGNMnH12QhSiesKR
+huvt2yaSWPFjy4+blGTFpY1KWNvqOLt+g1fGn0trEMPCbSlORyK9RnN7ddG6pKVj
+/MEQrMsk/LhIsMTt2gMVfjQ/hHbTt2gY9sLKc/J5rTpw62I0wW11DSCRXFhNqO4b
++iVcssxO0lEriyoW7wCOzLbYOF2ICQ6pjes0+I9Lf/N4NTog8qHl5H6nfSz4RVBm
+ilt4VYM0dsnBv5xFUd7j95cJeAqIgUbBVOe5UqUpHwtwAEn0c8P4l74RTFOvFs2b
+j0kT3OoUi19Vav9/CCDd
+=PEky
+-----END PGP SIGNATURE-----
